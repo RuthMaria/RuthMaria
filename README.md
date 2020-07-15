@@ -1,16 +1,18 @@
-### Hi there 👋
+# Ruth Maria :woman_technologist:
 
-<!--
-**RuthMaria/RuthMaria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ruth-maria-9b256071/)](https://www.linkedin.com/in/ruth-maria-9b256071/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ruthmariia01@gmail.com)](mailto:ruthmariia01@gmail.com)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-square&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/ruth_maaria/)](https://www.instagram.com/ruth_maaria/)
 
-Here are some ideas to get you started:
+### Olá! 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Sou formada em Ciência da Computação pela UFAL e Técnica em Informática pelo IFAL.
+
+ - ⚡ Sou junior web developer
+ - 🌱 Atualmente estou focada em desenvolvimento web, desde o back-end até o front-end.
+ - 💙 Adoro aprender novas tecnologias, escrever e compartilhar o que aprendi com outras pessoas.
+ 
+
+ 
+
+
