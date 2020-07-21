@@ -9,7 +9,7 @@
 Sou formada em Ciência da Computação pela UFAL e Técnica em Informática pelo IFAL.
 
  - ⚡ Sou junior web developer
- - 🌱 Atualmente estou focada em desenvolvimento web, desde o back-end até o front-end.
+ - 🌱 Atualmente estou focada em desenvolvimento web
  - 💙 Adoro aprender novas tecnologias, escrever e compartilhar o que aprendi com outras pessoas.
  
 
