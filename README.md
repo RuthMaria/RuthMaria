@@ -2,7 +2,7 @@
 
  - Bachelor of Computer Science
  - Computer technician
- - Frontend Developer at [edge](https://www.linkedin.com/company/edge-inovacao/);
+ - Front-end Developer at [EDGE](https://www.linkedin.com/company/edge-inovacao/);
  
  ### ⚡ Social
  
