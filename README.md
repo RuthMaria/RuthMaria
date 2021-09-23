@@ -23,10 +23,12 @@
 | :------: | :-----: | :-----: | :-----: | :-----: |
 |<img alt="Bootstrap" title="Bootstrap" src="https://user-images.githubusercontent.com/59986562/88584028-709f2000-d027-11ea-9bf8-e9fd48a16ef2.png" height="24"><img alt="ReactNative" title="ReactNative" src="https://user-images.githubusercontent.com/9818768/91670281-49d67c80-eaf2-11ea-99e0-0aa8aa83e9de.jpg" height="24">|<img alt="Angular" title="Angular" src="https://user-images.githubusercontent.com/9818768/91670295-738fa380-eaf2-11ea-840d-30b62be893aa.png" height="24">|<img alt="MongoDB" title="MongoDB" src="https://user-images.githubusercontent.com/9818768/91670436-e2b9c780-eaf3-11ea-9417-884292bd0a20.jpg" height="24">|<img alt="AWS" title="AWS" src="https://user-images.githubusercontent.com/59986562/88596572-bb2a9780-d03b-11ea-9f1e-153881caca89.png" height="24">|<img alt="Typescript" title="Typescript" src="https://user-images.githubusercontent.com/9818768/91670031-17c41b00-eaf0-11ea-8908-0437f3a94422.jpeg" height="24">
 
+
+<p> <img src="https://github-readme-stats.vercel.app/api?username=RuthMaria&count_private=true&show_icons=true&theme=dracula" alt="RuthMaria" />
+
 -->
 
  
-
  
 
 
