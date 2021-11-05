@@ -29,8 +29,6 @@
 <img width="530em" src="https://github-readme-stats.vercel.app/api?username=RuthMaria&show_icons=true&theme=vision-friendly-dark" alt="ruthmaria's stats"/>
 <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RuthMaria&layout=compact&theme=vision-friendly-dark" alt="ruthmaria's most languages"/>
 </p>
-
-<br><br>
 <!--
 ### :pencil: Skills I'm learning
 
