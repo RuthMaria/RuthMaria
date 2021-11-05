@@ -1,21 +1,36 @@
-## Hello, I'm Ruth Maria :woman_technologist:
+## Hi, I'm Ruth Maria :woman_technologist:
 
  - Bachelor of Computer Science
  - Computer technician
  - Front-end Developer at [EDGE](https://www.linkedin.com/company/edge-inovacao/);
  
- ### ⚡ Social
+ ### ⚡ Social Links
  
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ruth-maria-9b256071/)](https://www.linkedin.com/in/ruth-maria-9b256071/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ruthmariia01@gmail.com)](mailto:ruthmariia01@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-square&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/ruth_maaria/)](https://www.instagram.com/ruth_maaria/)
 <br>
- ### :star: Skills
 
-| | | | | | | | | | |
-| :-----: | :-----: | :-----: | :------: | :-----: | :-----: | :------: | :-----: | :-----: | :-----: |
-|<img alt="HTML" title="HTML" src="https://user-images.githubusercontent.com/1680157/87443762-4af82c80-c5cc-11ea-85cf-57be0e83c169.png" height="24">|<img alt="CSS" title="CSS" src="https://user-images.githubusercontent.com/1680157/87443759-4a5f9600-c5cc-11ea-8ae0-715433c1f781.png" height="24">|<img alt="Bootstrap" title="Material UI" src="https://material-ui.com/static/logo_raw.svg" height="24">|<img alt="React" title="React" src="https://user-images.githubusercontent.com/59986562/88585675-c1177d00-d029-11ea-9aae-812458cdd582.png" height="24">|<img alt="JavaScript" title="JavaScript" src="https://user-images.githubusercontent.com/1680157/87443764-4af82c80-c5cc-11ea-82c2-c368ee12cf6d.png" height="24">|<img alt="Node.js" title="Node.js" src="https://user-images.githubusercontent.com/1680157/87443758-4a5f9600-c5cc-11ea-8f63-92e126a1145b.png" height="24">|<img alt="Git" title="Git" src="https://user-images.githubusercontent.com/1680157/87443755-49c6ff80-c5cc-11ea-954a-579f7c72873a.png" height="24">|<img alt="MySQL" title="MySQL" src="https://user-images.githubusercontent.com/59986562/88585130-1010e280-d029-11ea-8a33-cb173b89dd9d.png" height="24">|<img alt="PostgreSQL" title="PostgreSQL" src="https://user-images.githubusercontent.com/59986562/88583306-79432680-d026-11ea-867d-faa77a483554.png" height="24">|<img alt="MongoDB" title="MongoDB" src="https://user-images.githubusercontent.com/9818768/91670436-e2b9c780-eaf3-11ea-9417-884292bd0a20.jpg" height="24">|<img alt="SQLite" title="SQLite" src="https://jaydata.org/wp-content/uploads/2016/09/sqlite-1.png" height="24">
+### 🛠 &nbsp;Tech Stack
 
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![VueJS](https://img.shields.io/badge/-VueJs-05122A?style=flat&logo=vue.js)&nbsp;
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+![HTML5](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS3](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
+
+### ⚙️ &nbsp;GitHub Analytics
+
+<p align="left">
+<img width="530em" src="https://github-readme-stats.vercel.app/api?username=RuthMaria&show_icons=true&theme=vision-friendly-dark" alt="ruthmaria's stats"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RuthMaria&layout=compact&theme=vision-friendly-dark" alt="ruthmaria's most languages"/>
+</p>
+
+<br><br>
 <!--
 ### :pencil: Skills I'm learning
 
