@@ -24,10 +24,11 @@
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
 
 ### ⚙️ &nbsp;GitHub Analytics
-
-<p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=RuthMaria&show_icons=true&theme=vision-friendly-dark" alt="ruthmaria's stats"/>
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RuthMaria&layout=compact&theme=vision-friendly-dark" alt="ruthmaria's most languages"/>
+ <div align="left">
+  <a href="https://github.com/RuthMaria">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RuthMaria&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RuthMaria&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 </p>
 <!--
 ### :pencil: Skills I'm learning
