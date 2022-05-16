@@ -1,8 +1,8 @@
 ## Hi, I'm Ruth Maria :woman_technologist:
 
  - Bachelor of Computer Science
- - Computer technician
- - Front-end Developer at [EDGE](http://edgebr.org/);
+ - Computer Technician
+ - Front-end Web Developer at [EDGE](http://edgebr.org/);
  
  ### ⚡ Social Links
  
@@ -14,6 +14,7 @@
 ### 🛠 &nbsp;Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
 ![VueJS](https://img.shields.io/badge/-VueJs-05122A?style=flat&logo=vue.js)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![HTML5](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
