@@ -2,7 +2,7 @@
 
  - Bachelor of Computer Science
  - Computer Technician
- - Front-end Web Developer at [EDGE](http://edgebr.org/);
+ - Web Developer at [EDGE](http://edgebr.org/);
  
  ### ⚡ Social Links
  
